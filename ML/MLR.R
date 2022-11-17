@@ -1,4 +1,4 @@
-## RF Algorithm ##
+## MLR Algorithm ##
 
 # Load library source
 source("source.R")
