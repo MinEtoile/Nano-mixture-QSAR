@@ -1,4 +1,4 @@
-## RF Algorithm ##
+## BRNN Algorithm ##
 
 # Load library source
 source("source.R")
